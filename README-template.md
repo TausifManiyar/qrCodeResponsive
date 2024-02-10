@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./qr-code-main_index.html(Galaxy Fold).png)
+[QR-Code](./qr-code-main_index.html(Galaxy Fold).png)
 
 [FireShot](https://getfireshot.com/)
 
