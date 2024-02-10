@@ -10,6 +10,6 @@ Front-end Mentor will give you everything you need to build this project or any 
 **Where Do I Think I Need You Improve?**
 
 **Answer:-**
-Well to be honest it's my first my first project so i don't really know
+Well to be honest it's my first project so i don't really know
 but i do think i need to learn more about Height Property, Position(I don't really use any position in this project) Flex-box and Grid.
 You can tell me were i need to improve any kind of feedback is appreciated so don't hesitate.
