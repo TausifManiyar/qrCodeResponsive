@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-[QR-Code](\Desktop\VsCode's\qr-code-component-main)
+[QR-Code](C:\Users\Maniyar\OneDrive\Desktop\VsCode's\qr-code-component-main.png)
 
 [FireShot](https://getfireshot.com/)
 
