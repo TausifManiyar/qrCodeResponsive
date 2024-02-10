@@ -12,7 +12,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #add8e6;
+    background-color: hsl(212, 45%, 89%);
     border: 1px solid #add8e6;
 }
 
