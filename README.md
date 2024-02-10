@@ -1,6 +1,6 @@
 # qrCodeResponsive
 
-**"What This Is About?"**
+**What This Is About?**
 
 **Answer**
 This is a Front-end mentor challenge, Where you need to build responsive QR-code.
